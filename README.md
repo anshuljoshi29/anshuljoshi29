@@ -1,6 +1,6 @@
 ### Hi, My name is ANSHUL JOSHI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌱 Languages use - Python, SQL, Django
+- 🌱 Languages use - Python, SQL, Django ,core java
 - 👯 I’m looking to collaborate with - Open Source Project
 
 <h3>Github Stats</h3>
